@@ -26,7 +26,10 @@ Para usar o WebScraping_IMDB250, siga estas etapas:
     ```
     scrapy crawl imdb -O imdb.csv 
     ```
+    ![Arquivo CSV](filmes_imdb/imdb_project/imdb.csv)
 * Gerando um JSON com os Top 250 filmes do IMDB.
     ```
     scrapy crawl imdb -O imdb.json 
     ```
+    ![Arquivo JSON](filmes_imdb/imdb_project/imdb.json)
+
